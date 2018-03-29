@@ -1,0 +1,7 @@
+cachefile: /home/username/.dyn-ip-cache
+email: send-updates-to@mail.com
+smtp:
+    server: smtp.server.com
+    port: 587
+    username: example-username
+    password: example-password
